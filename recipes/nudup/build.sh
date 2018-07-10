@@ -1,2 +1,3 @@
-mkdir "bin"
-cp "nudup.py" "$PREFIX/bin"
+#!/bin/bash
+mkdir ${PREFIX}/bin
+cp nudup.py ${PREFIX}/bin/

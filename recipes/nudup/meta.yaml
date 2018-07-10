@@ -12,9 +12,6 @@ build:
 
 requirements:
   host:
-    - python
-    - setuptools
-
   run:
     - python
     - samtools >=1.2
